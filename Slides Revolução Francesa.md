@@ -3,7 +3,7 @@
 # Disciplina : Língua portuguesa 
 
 ## Professor : Marcos 
-### Aluno : Miguel alexsandeer 
+### Aluno : Miguel Alexsandeer 
 ### Turma : 8A
 ---
 
